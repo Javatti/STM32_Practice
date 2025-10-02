@@ -1,0 +1,45 @@
+# Build outputs
+Debug/
+Release/
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+
+# IDE files
+.project
+.cproject
+.settings/
+*.launch
+*.log
+
+# Object files
+*.o
+*.su
+*.d
+*.axf
+
+# Libraries
+*.a
+*.lib
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Eclipse workspace
+.metadata/
+
+# STM32CubeIDE specific
+*.mxproject
+*.crc
+
+# Debug files
+*.jdebug
+
+# System files
+.DS_Store
+Thumbs.db
